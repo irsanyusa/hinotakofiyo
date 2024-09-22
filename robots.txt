@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://hinotakofiyo.b-cdn.net/sitemap.xml
